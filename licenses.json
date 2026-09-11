@@ -1,5 +1,14 @@
 {
   "version": 1,
-  "updatedUtc": "2026-09-11T15:29:10.8513013Z",
-  "licenses": []
+  "updatedUtc": "2026-09-11T15:32:45.2065810Z",
+  "licenses": [
+    {
+      "name": "ADMIN",
+      "licenseHash": "200a50238155e52e7f03502242ba788c9e17e668e4a6f42dc56c85de39a3891f",
+      "deviceHash": "c63dbf3a8ecab36ac7c0f9777cae88b32e0aeac70216b01ee147ecd77a52e13e",
+      "enabled": true,
+      "createdUtc": "2026-09-11T15:32:18.5617789Z",
+      "expiresUnix": 2104500738
+    }
+  ]
 }
