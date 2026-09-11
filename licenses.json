@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedUtc": "2026-09-11T16:00:43.8289213Z",
+  "updatedUtc": "2026-09-11T18:12:57.2747729Z",
   "licenses": [
     {
       "name": "ADMIN",
@@ -9,6 +9,14 @@
       "enabled": true,
       "createdUtc": "2026-09-11T15:32:18.5617789Z",
       "expiresUnix": 2104500738
+    },
+    {
+      "name": "Danny",
+      "licenseHash": "25fcb9e55dc66b6236d1b4a167791cb8e7142e1b8342fa9e4e2271a27f909bfc",
+      "deviceHash": "d1b6fc934b143f9a20be9c6f9f4989498e3c68b407f5d569f92cf03365e91db8",
+      "enabled": true,
+      "createdUtc": "2026-09-11T18:12:27.0086774Z",
+      "expiresUnix": 2104510347
     }
   ]
 }
